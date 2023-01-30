@@ -1,0 +1,10 @@
+Page d'acceuil:
+-Menu burger => Acceuil, Remise au normes, Rénovation, Réalisations
+-Description de l'entreprise
+-Photos 
+-Liens réseaux sociaux (footer)
+-partie back => Fichier client + facturation
+
+Logo = 
+Entreprise = MCM Solution électrique
+Garder l'ampoule + culot mais le maitre dans une maison
